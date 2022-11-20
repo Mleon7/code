@@ -3,7 +3,7 @@ import threading
 import json
 from cmd import Cmd
 
-HOST = '202.5.18.192'
+HOST = ''
 PORT = 1234
 
 class Client(Cmd):
