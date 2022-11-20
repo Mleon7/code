@@ -2,7 +2,7 @@ import socket
 import threading
 import json
 
-HOST = '202.5.18.192'
+HOST = ''
 PORT = 1234 # You can use any port between 0 to 65535
 LISTENER_LIMIT = 5
 
